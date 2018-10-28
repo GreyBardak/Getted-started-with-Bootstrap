@@ -1,0 +1,22 @@
+.row div {
+    border: 10px solid white;
+    height: 6rem;
+}
+
+.row.blue div {
+    background-color: rgb(42, 123, 175);
+}
+
+.row.orange div {
+    background-color: rgb(251, 159, 71);
+    height: 15rem;
+}
+
+.row.green div {
+    background-color: rgb(111, 175, 60);
+}
+
+.row.red div {
+    background-color: rgb(233, 55, 61);
+    height: 6rem;
+}
